@@ -1,0 +1,16 @@
+html {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+canvas {
+  background: whitesmoke;
+  border: 2px dotted black;
+}
+
+a {
+  display: inline-block;
+  background: #69c;
+  color: white;
+  padding: 5px 10px;
+}
